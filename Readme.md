@@ -1,5 +1,7 @@
-## Criação de um projeto Django com Docker
+# Criação de um projeto Django com Docker
 ![](assets/images/django-docker.png)
+
+
 O primeiro passo é verificar a instalação do docker e do docker-compose
 ```
 docker --version
